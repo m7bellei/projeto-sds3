@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-const NavBar = () => {
+const DataTable = () => {
     return (
         <div className="table-responsive">
             <table className="table table-striped table-sm">
@@ -91,4 +91,4 @@ const NavBar = () => {
     );
 }
 
-export default NavBar;
+export default DataTable;
